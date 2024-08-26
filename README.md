@@ -4,6 +4,14 @@
 
 This is a simple Alarm App built with JavaScript that allows users to set alarms and watch the current time and date. The app lets users set an alarm for a specific time, and it will notify them when the alarm goes off. The current time and date are displayed in real-time.
 
+
+## Example
+
+
+![Screenshot (57)](https://github.com/user-attachments/assets/dfb370c2-74e5-42eb-a60b-271eeab3f468)
+
+
+
 ## Features
 
 - Set an alarm for a specific time
@@ -29,11 +37,6 @@ This is a simple Alarm App built with JavaScript that allows users to set alarms
 2. Enter the desired time for the alarm and set it.
 3. The current time and date will be displayed on the screen.
 4. When the alarm time matches the current time, you will receive a alarm sound.
-
-## Example
-
-
-![Screenshot (57)](https://github.com/user-attachments/assets/dfb370c2-74e5-42eb-a60b-271eeab3f468)
 
 
 
