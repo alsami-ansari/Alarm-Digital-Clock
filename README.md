@@ -1,4 +1,4 @@
-# Alarm App
+# Alarm Digital Clock
 
 ## Description
 
@@ -21,12 +21,12 @@ This is a simple Alarm App built with JavaScript that allows users to set alarms
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/alarm-app.git
+    git clone https://github.com/samiansari01/alarm-digitak-clock.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd alarm-app
+    cd alarm-digital-clock
     ```
 
 3. Open `index.html` in your preferred web browser to run the app.
