@@ -7,6 +7,7 @@ This is a simple Alarm App built with JavaScript that allows users to set alarms
 
 ## Example
 
+[Click to open](https://samiansari01.github.io/Alarm-Digital-Clock/)
 
 ![Screenshot (57)](https://github.com/user-attachments/assets/dfb370c2-74e5-42eb-a60b-271eeab3f468)
 
