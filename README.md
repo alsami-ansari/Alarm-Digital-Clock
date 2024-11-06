@@ -7,7 +7,7 @@ This is a simple Alarm App built with JavaScript that allows users to set alarms
 
 ## Example
 
-[Click to open](https://samiansari01.github.io/Alarm-Digital-Clock/)
+[Click to open](https://alsami-ansari.github.io/Alarm-Digital-Clock/)
 
 ![Screenshot (57)](https://github.com/user-attachments/assets/dfb370c2-74e5-42eb-a60b-271eeab3f468)
 
@@ -22,7 +22,7 @@ This is a simple Alarm App built with JavaScript that allows users to set alarms
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/samiansari01/alarm-digitak-clock.git
+    git clone https://github.com/alsami-ansari/alarm-digitak-clock.git
     ```
 
 2. Navigate to the project directory:
